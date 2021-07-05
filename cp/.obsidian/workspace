@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "b2fa20725f11769a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aedcc93ea4a6b7b",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "eb8c092da905faf2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Binary Indexed Tree.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b64f71025c497ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "db9015592d492932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c5bb3cbc1950249",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "10cef0eb3906d03f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31c79325dfed78f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "89cc9594ade5ee1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b82da19a53a8dc4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Binary Indexed Tree.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9032eadf5b7c129",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "eb8c092da905faf2",
+  "lastOpenFiles": [
+    "Notes/Binary Indexed Tree.md",
+    "Notes/Segment Trees.md",
+    "Notes/Find loop in a linked list.md",
+    "SlipBox/202107052127 - Segment trees.md",
+    "SlipBox/202107042127 - Find Loop in Cyclic Linked List.md",
+    "SlipBox/202107051159 - Binary Indexed Tree.md",
+    "_templates/fleeting.md",
+    "_templates/notes.md",
+    "_templates/slipbox.md",
+    "Notes/Untitled.md"
+  ]
+}

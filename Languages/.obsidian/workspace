@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "b2fa20725f11769a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c024fa8f11280ada",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Git/General.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b64f71025c497ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "db9015592d492932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c5bb3cbc1950249",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "10cef0eb3906d03f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31c79325dfed78f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "89cc9594ade5ee1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b82da19a53a8dc4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/General.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0061dab11aae5c58",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "c024fa8f11280ada",
+  "lastOpenFiles": [
+    "Git/Untitled.md",
+    "Java/Lists.md",
+    "Java/General.md",
+    "Linux/Vim.md",
+    "Java/Untitled.md",
+    "MariaDB/Extras.md",
+    "Linux/Untitled.md",
+    "MariaDB/Untitled.md",
+    "MariaDB/Initialization.md",
+    "Untitled.md"
+  ]
+}
