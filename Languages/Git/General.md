@@ -18,9 +18,6 @@
 - To commit changes into the repo:- `git commit -m “message”`
 - To check all the changes made :- `git log`
 
-- Details of the repo:- `git remote -v`
-			     					`git branch -a`
-
 - `git diff` to show the changes made in the code.
 
 
@@ -30,3 +27,4 @@
 
 - To find the contents of remote url:-	`git remote -v`
 - To find the contents of branches:- `git remote -vv`
+ - Details of the branches:- `git branch -a`

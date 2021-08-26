@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "b2fa20725f11769a",
+    "type": "split",
+    "children": [
+      {
+        "id": "30b3099f09cc7145",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/202108101307 - Automata & Compiler Design.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b64f71025c497ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "db9015592d492932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c5bb3cbc1950249",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "10cef0eb3906d03f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31c79325dfed78f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "89cc9594ade5ee1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b82da19a53a8dc4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/202108101307 - Automata & Compiler Design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bd4e6f6dd6317e5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c79dde5999ffa31f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "30b3099f09cc7145",
+  "lastOpenFiles": [
+    "Notes/202108101307 - Automata & Compiler Design.md",
+    "_templates/slipbox.md",
+    "_templates/notes.md",
+    "Notes/202108101320.md",
+    "Notes/202108101318 - Computer Networks.md",
+    "Notes/202108101318.md",
+    "Notes/202108101312.md",
+    "Notes/202108101307.md",
+    "SlipBox/202108101304.md",
+    "SlipBox/202106271710.md"
+  ]
+}

@@ -1,1 +1,4 @@
-{"folder":"_templates","dateFormat":"DD-MM-YYYY"}
+{
+  "folder": "_template",
+  "dateFormat": "DD-MM-YYYY"
+}

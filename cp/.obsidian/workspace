@@ -4,23 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7aedcc93ea4a6b7b",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "graph",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
         "id": "eb8c092da905faf2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting/reminder.md",
-            "mode": "preview"
+            "file": "LeetCode/76 - Minimum Window Substring.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/reminder.md",
+                "file": "LeetCode/76 - Minimum Window Substring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +96,15 @@
   },
   "active": "eb8c092da905faf2",
   "lastOpenFiles": [
-    "Fleeting/reminder.md",
-    "Fleeting/Untitled.md",
-    "_templates/fleeting.md",
-    "Notes/Binary Indexed Tree.md",
+    "LeetCode/76 - Minimum Window Substring.md",
+    "LeetCode/73 - Set Matrix Zeros.md",
+    "_templates/leetcode.md",
+    "LeetCode/Untitled.md",
+    "_templates/Untitled.md",
     "Notes/Segment Trees.md",
     "Notes/Find loop in a linked list.md",
-    "SlipBox/202107052127 - Segment trees.md",
-    "SlipBox/202107042127 - Find Loop in Cyclic Linked List.md",
-    "SlipBox/202107051159 - Binary Indexed Tree.md",
-    "_templates/notes.md"
+    "Fleeting/8 Aug.md",
+    "Fleeting/Untitled.md",
+    "Fleeting/4 Aug.md"
   ]
 }
